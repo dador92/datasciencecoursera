@@ -1,5 +1,5 @@
 <script id="MathJax-script" async
-  src="https://github.com/mathjax/MathJax/blob/master/es5/tex-mml-chtml.js">
+  src="https://github.com/mathjax/MathJax/es5/tex-chtml-full.js">
 </script>
 
 # datasciencecoursera
